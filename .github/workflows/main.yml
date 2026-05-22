@@ -31,7 +31,7 @@ jobs:
             rm -rf githubworkflowdoc
 
             echo "📦 Cloning repo..."
-            git clone https://github.com/MAGESH137/githubworkflowdoc.git
+            git clone https://github.com/Snegadevi05/reppo.git
 
             cd githubworkflowdoc/backend
 
